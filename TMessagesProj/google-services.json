@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "955472486835",
+    "firebase_url": "https://fcmfirebaseproject-52049.firebaseio.com",
+    "project_id": "fcmfirebaseproject-52049",
+    "storage_bucket": "fcmfirebaseproject-52049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955472486835:android:3db507a5d6a0159999abc6",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955472486835-r87dsc3her0o4ka9psm4u6ai9kbv58dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdfR4RY1v9klG2GPUwFuZ3yGW_mnxKts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955472486835-r87dsc3her0o4ka9psm4u6ai9kbv58dm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955472486835-7jha6mgekql2k12om4bp5srq2qm2rlgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GIDTashkent.AvtoBank"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955472486835:android:079f69fa137a454299abc6",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger.voicetouch.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955472486835-r87dsc3her0o4ka9psm4u6ai9kbv58dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdfR4RY1v9klG2GPUwFuZ3yGW_mnxKts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955472486835-r87dsc3her0o4ka9psm4u6ai9kbv58dm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955472486835-7jha6mgekql2k12om4bp5srq2qm2rlgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GIDTashkent.AvtoBank"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955472486835:android:cb9ab0ac72e281f699abc6",
+        "android_client_info": {
+          "package_name": "uz.avtobank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955472486835-r87dsc3her0o4ka9psm4u6ai9kbv58dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdfR4RY1v9klG2GPUwFuZ3yGW_mnxKts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955472486835-r87dsc3her0o4ka9psm4u6ai9kbv58dm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955472486835-7jha6mgekql2k12om4bp5srq2qm2rlgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GIDTashkent.AvtoBank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
